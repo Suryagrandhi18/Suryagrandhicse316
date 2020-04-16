@@ -6,7 +6,7 @@
    printf("\nEnter Total Process: ");  
    scanf("%d",&n);  
    remain=n;  
-   for(count=0;count<n;count++)  
+   for(count=0;count<n;count++)
    {  
      tryagain: 
      printf("\nEnter Arrival Time for Process %d (i.e. it should be greater than 3): ",count+1); 
