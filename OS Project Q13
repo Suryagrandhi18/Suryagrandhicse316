@@ -123,15 +123,3 @@ int main(int argc, char *argv[])                                 //main method
 	sem_post(&pillow);
 	pthread_join(a,NULL);
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
